@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.counter {
+  font-size: 48px;
+}
+
+.incrementButton {
+  width: 200px;
+  height: 50px;
+}
